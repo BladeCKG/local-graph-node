@@ -27,7 +27,7 @@ uuid = { version = "0.8.1", features = ["v4"] }
 stable-hash_legacy = { version = "0.3.2", package = "stable-hash" }
 diesel_derives = "1.4.1"
 anyhow = "1.0.57"
-git-testament = "0.2.0"
+git-testament = "0.2.1"
 itertools = "0.10.3"
 pin-utils = "0.1"
 hex = "0.4.3"
